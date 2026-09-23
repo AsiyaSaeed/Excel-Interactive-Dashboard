@@ -24,6 +24,6 @@ To create an interactive operations report and dashboard so that managers can tr
 - **User-Controlled Density:** Implementing interactive spin buttons empowers users to customize how many records are displayed at once, keeping the dashboard clean and preventing visual clutter.
 - **Dynamic UI Flexibility:** The custom VBA macro-powered eye icons successfully bridge the gap between static table data and visual data storytelling, letting users toggle charts on or off based on their current focus.
 ## Conclusion.
-This Excel-Interactive-Dashboard successfully demonstrates the integration of advanced Excel features—such as PivotTables, Form Controls, and VBA automation—into a practical business reporting tool. By combining clean data structuring with intuitive UI toggles, the project provides an efficient, user-friendly solution for tracking employee performance and customer interaction metrics.
+- This Excel-Interactive-Dashboard successfully demonstrates the integration of advanced Excel features—such as PivotTables, Form Controls, and VBA automation—into a practical business reporting tool. By combining clean data structuring with intuitive UI toggles, the project provides an efficient, user-friendly solution for tracking employee performance and customer interaction metrics.
 
 
