@@ -16,3 +16,10 @@ To create an interactive operations report and dashboard so that managers can tr
 - **Custom VBA Macros & UI Interactivity:** Developed and assigned custom VBA macro code to open and closed eye icons to seamlessly toggle the chart visibility on and off.
 - **Data Visualization:** Integrated visual chart elements (bar and pie charts) to clearly display performance metrics and employee breakdowns.
 * **Data Visualization:** Integrated visual chart elements (bar and pie charts) to clearly display performance metrics and employee breakdowns.
+## Dashboard
+<img width="509" height="295" alt="Dashboard-closed" src="https://github.com/user-attachments/assets/33ff916b-9f01-4489-904e-8521247cb465" />
+<img width="509" height="253" alt="dashboard-open" src="https://github.com/user-attachments/assets/f549a83e-cc81-4197-b9be-03b2212f6462" />
+
+
+
+
