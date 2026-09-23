@@ -9,7 +9,7 @@ To create an interactive operations report and dashboard so that managers can tr
 - How do the custom VBA macro eye icons toggle the chart visibility on and off seamlessly?
 - Dashboard interaction Closed eye <a href="https://github.com/AsiyaSaeed/Excel-Interactive-Dashboard/blob/main/Dashboard-closed.png">view dashboard</a>
 - Dashboard interaction open eye <a href="https://github.com/AsiyaSaeed/Excel-Interactive-Dashboard/blob/main/dashboard-open.png">view dashboard</a>
-##Process
+## Process
 **Data Organization & Hygiene:** Prepared and structured the raw dataset containing employee working hours and customer interaction records.
 **PivotTables:** Built dynamic PivotTables to summarize total working hours and active customer time by employee name.
 **Form Controls (Spin Buttons):** Added interactive record selector spin buttons to control and adjust the displayed rows dynamically.
