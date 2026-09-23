@@ -15,4 +15,4 @@ To create an interactive operations report and dashboard so that managers can tr
 - **Form Controls (Spin Buttons):** Added interactive record selector spin buttons to control and adjust the displayed rows dynamically.
 - **Custom VBA Macros & UI Interactivity:** Developed and assigned custom VBA macro code to open and closed eye icons to seamlessly toggle the chart visibility on and off.
 - **Data Visualization:** Integrated visual chart elements (bar and pie charts) to clearly display performance metrics and employee breakdowns.
-* **Data Visualization:** Integrated visual chart elements (bar and pie charts) to clearly display performance metrics and employee breakdowns[cite: 8].
+* **Data Visualization:** Integrated visual chart elements (bar and pie charts) to clearly display performance metrics and employee breakdowns.
