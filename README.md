@@ -7,4 +7,5 @@ To create an interactive operations report and dashboard so that managers can tr
 - What is the sum of active time spent with customers per employee?
 - How can the record count be dynamically adjusted using the spin buttons on each report section?
 - How do the custom VBA macro eye icons toggle the chart visibility on and off seamlessly?
-- Dashboard interaction <a href="
+- Dashboard interaction Closed eye <a href="https://github.com/AsiyaSaeed/Excel-Interactive-Dashboard/blob/main/Dashboard-closed.png">view dashboard</a>
+- Dashboard interaction open eye <a href="">view dashboard</a>
